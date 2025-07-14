@@ -1,0 +1,17 @@
+{
+    "create":{
+        "account":{
+            "name": "asgag",
+            "email": "dasdasd",
+            "cpf": "12312312"
+        },
+        "plan": "Plano Black",
+        "credit_card": {
+            "number": "31231",
+            "name": "ddasdasd",
+            "month": "12",
+            "year": "2030",
+            "cvv": "123"
+        }
+    }
+}
